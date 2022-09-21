@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade como desenvolvedor backend
 - 🌱 Estou aprendendo Java
-- 📫 Como chegar até mim: guilhermedesiderio23@gmail.com
+- 📫 Como chegar até mim: contatoguilhermedesiderio@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
@@ -21,7 +21,7 @@
  
 <div> 
   <a href="https://instagram.com/guilhermedesiderio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermedesiderio23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoguilhermedesiderio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guidesiderio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GuiDesiderio/GuiDesiderio/blob/output/github-contribution-grid-snake.svg)
