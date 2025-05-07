@@ -1,9 +1,7 @@
 ### Olá, eu sou o Guilherme Desidério 👋
 
-- 🔭 Atualmente estou em busca da minha primeira oportunidade como desenvolvedor backend
-- 🌱 Estou aprendendo Python
+- 🔭 Atualmente estou em busca da minha primeira oportunidade como desenvolvedor
 - 📫 Como chegar até mim: contatoguilhermedesiderio@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/guidesiderio">
