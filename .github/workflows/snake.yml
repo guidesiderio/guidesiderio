@@ -11,9 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      # Root action runs via Docker — no Node.js deprecation warnings
+      # Docker-based action — no Node.js runtime, zero deprecation warnings
       - uses: Platane/snk@v3
         with:
           github_user_name: guidesiderio
@@ -24,11 +22,11 @@ jobs:
       - name: Deploy to output branch
         run: |
           cd dist
-          git init
+          git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "update snake SVGs"
-          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:output
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
