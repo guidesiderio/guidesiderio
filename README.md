@@ -1,11 +1,11 @@
-# Desidério
+# Guilherme Desidério
 
 Analista de dados e BI. Estudante de Ciência da Computação na UFPI (2022–2027).
-Construo dashboards, modelo bases relacionais e transformo dados operacionais em informação útil.
+Construo dashboards, sites, modelo bases relacionais e transformo dados operacionais em informação útil.
 
 ## Onde estou agora
 
-**TJ-PI** — Dashboards em Qlik Sense conectados à base do PJe. Analítica de CEJUSCs: ocupação de salas de audiência, taxas de acordo, desempenho de mediadores.
+**TJ-PI** — Dashboards em Qlik Sense conectados à base do PJe. Informações analíticas do CEJUSC I: ocupação de salas de audiência, taxas de acordo, desempenho de mediadores.
 
 **PRAD/UFPI** — Montando infraestrutura de BI do zero com Looker Studio e Google Sheets. Coleta, tratamento e visualização de dados administrativos.
 
