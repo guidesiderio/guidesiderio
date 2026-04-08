@@ -54,9 +54,15 @@ Construo dashboards, modelo bases relacionais e transformo dados operacionais em
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
+</picture>
 
 </div>
 
