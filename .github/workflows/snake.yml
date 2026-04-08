@@ -21,7 +21,9 @@ jobs:
 
       - name: Deploy to output branch
         run: |
-          cd dist
+          mkdir deploy
+          cp dist/*.svg deploy/
+          cd deploy
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
