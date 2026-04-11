@@ -1,13 +1,13 @@
 # Guilherme Desidério
 
-Analista de dados e BI. Estudante de Ciência da Computação na UFPI (2022–2027).
-Construo dashboards, sites, modelo bases relacionais e transformo dados operacionais em informação útil.
+Analista de Dados & BI. Estudante de Ciência da Computação na UFPI (2022–2028).
+Construo dashboards, extraio informação de bases de dados operacionais e desenvolvo ferramentas que facilitam a tomada de decisão.
 
 ## Onde estou agora
 
-**TJ-PI** — Dashboards em Qlik Sense conectados à base do PJe. Informações analíticas do CEJUSC I: ocupação de salas de audiência, taxas de acordo, desempenho de mediadores.
+**TJ-PI** — Dashboards em Qlik Sense conectados ao banco de dados do PJe (PostgreSQL). Indicadores de ocupação de salas de audiência, taxas de acordo, desempenho de mediadores e qualidade de dados para o CNJ.
 
-**PRAD/UFPI** — Montando infraestrutura de BI do zero com Looker Studio e Google Sheets. Coleta, tratamento e visualização de dados administrativos.
+**PRAD/UFPI** — Primeiro projeto de BI da unidade: dashboard de gestão de contratos no Looker Studio e landing pages institucionais para centralizar documentos de fiscalização contratual.
 
 ## Stack
 
@@ -48,33 +48,11 @@ Construo dashboards, sites, modelo bases relacionais e transformo dados operacio
 
 ## No momento
 
-- Estruturando o portfólio pessoal → [guidesiderio.github.io](https://guidesiderio.github.io)
 - Aprofundando modelagem de dados e pipelines de BI
 - Consolidando SQL em contexto judicial (PJe)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guidesiderio/guidesiderio/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/guidesiderio/guidesiderio/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+- Estudando Cloud na AWS Academy
+- Explorando IA, LLMs e Code Agents
 
 ## Contato
 
-[guilhermedesiderio23@gmail.com](mailto:guilhermedesiderio23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guidesiderio/)
+[guilhermedesiderio23@gmail.com](mailto:guilhermedesiderio23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guidesiderio/) · [Portfolio](https://guidesiderio.github.io)
