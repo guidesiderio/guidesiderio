@@ -78,7 +78,7 @@ Construo dashboards e extraio informação de bases operacionais para apoiar dec
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&hide_border=true" />
+<img height="165" src="profile/stats.svg" />
+<img height="165" src="profile/top-langs.svg" />
 
 </div>
