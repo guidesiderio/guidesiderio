@@ -1,14 +1,28 @@
-# Guilherme Desidério
+<div align="center">
 
-Analista de Dados & BI. Estudante de Ciência da Computação na UFPI.
+# Olá, sou o Guilherme 👋
 
-Construo dashboards e extraio informação de bases operacionais para apoiar decisão. Em estudo: AWS e dbt, para atuação em engenharia de dados e cloud.
+**Analista de Dados & BI** · Estudante de Ciência da Computação na UFPI
 
-## Atuação
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermedesiderio23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidesiderio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://guidesiderio.github.io)
 
-**TJ-PI** (desde outubro de 2025) · Dashboards em Qlik Sense sobre o PJe (PostgreSQL): ocupação de salas, taxas de acordo, desempenho de mediadores e qualidade de dados para o CNJ.
+</div>
 
-**PRAD/UFPI** (março a julho de 2026) · Primeiro projeto de BI da unidade: Painel de Contratos CCON no Looker Studio, apresentado à Reitoria e publicado em ufpi.br/ccon/painel-contratos-ccon, além de landing pages de fiscalização contratual (Maleta Digital da Fiscalização).
+Construo dashboards e extraio informação de bases operacionais para apoiar decisão.
+
+- 🔭 **TJ-PI** (desde out/2025): dashboards em Qlik Sense sobre o PJe (PostgreSQL), cobrindo ocupação de salas, taxas de acordo, desempenho de mediadores e qualidade de dados para o CNJ.
+- 🎓 **PRAD/UFPI** (mar–jul/2026): primeiro projeto de BI da unidade, Painel de Contratos CCON no Looker Studio, apresentado à Reitoria e publicado em [ufpi.br/ccon/painel-contratos-ccon](https://ufpi.br/ccon/painel-contratos-ccon).
+- 🌱 Estudando **AWS** e **dbt** para atuar em engenharia de dados e cloud.
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [maleta-digital-da-fiscalizacao](https://github.com/guidesiderio/maleta-digital-da-fiscalizacao) | Acervo digital de documentos da PRAD/UFPI para fiscais e gestores de contratos |
+| [docker-data-project](https://github.com/guidesiderio/docker-data-project) | ETL com Python, Pandas, PostgreSQL e Docker |
+| [prototipo-multimidia](https://github.com/guidesiderio/prototipo-multimidia) | Aplicação web de gerenciamento de objetos multimídia, publicada na AWS |
 
 ## Stack
 
@@ -29,6 +43,11 @@ Construo dashboards e extraio informação de bases operacionais para apoiar dec
 
 </div>
 
-## Contato
+## GitHub Stats
 
-[guilhermedesiderio23@gmail.com](mailto:guilhermedesiderio23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guidesiderio/) · [Portfolio](https://guidesiderio.github.io)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guidesiderio&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidesiderio&layout=compact&hide_border=true" />
+
+</div>
