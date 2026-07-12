@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=guidesiderio&show_icons=true&hide_border=true&count_private=true
+          options: username=guidesiderio&show_icons=true&hide_border=true&count_private=true&theme=dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=guidesiderio&layout=compact&hide_border=true
+          options: username=guidesiderio&layout=compact&hide_border=true&theme=dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
