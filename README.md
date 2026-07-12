@@ -78,7 +78,7 @@ Construo dashboards e extraio informação de bases operacionais para apoiar dec
 
 <div align="center">
 
-<img height="165" src="profile/stats.svg" />
-<img height="165" src="profile/top-langs.svg" />
+<img height="165" src="profile/stats.svg?v=2" />
+<img height="165" src="profile/top-langs.svg?v=2" />
 
 </div>
