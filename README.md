@@ -2,7 +2,7 @@
 
 # Olá, sou o Guilherme 👋
 
-**Analista de Dados & BI** · Estudante de Ciência da Computação na UFPI
+**Engenharia de Dados** · Analista de Dados & BI · Estudante de Ciência da Computação na UFPI
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermedesiderio23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidesiderio/)
@@ -10,58 +10,43 @@
 
 </div>
 
-Construo dashboards e extraio informação de bases operacionais para apoiar decisão.
+Trabalho com dados no setor público, no Tribunal de Justiça do Piauí, onde construo painéis em Qlik Sense sobre dados de processos judiciais e cuido da camada que fica embaixo deles: extração em PostgreSQL, saneamento, modelagem e carga. Nos repositórios deste perfil você encontra pipelines: orquestração com Airflow, ingestão via API e ETL em Python. Minha direção é engenharia de dados, com estudo contínuo em SQL, Python e computação em nuvem.
 
-- 🔭 **TJ-PI** (desde out/2025), Estagiário Dados / Governança de Dados: painéis institucionais em Qlik Sense (set analysis, Qlik Management Console) e extração via SQL sobre o banco de dados do PJe (PostgreSQL).
-- 🎓 **PRAD/UFPI** (mar–jul/2026, concluído), Estagiário de Dados/BI: primeiro projeto de BI da unidade, Painel de Contratos CCON no Looker Studio, apresentado à Reitoria.
-- 🌱 Estudando **AWS** e **dbt** para atuar em engenharia de dados e cloud.
-
-## Projetos em destaque
+## Projetos
 
 | Projeto | Descrição |
 |---|---|
-| [maleta-digital-da-fiscalizacao](https://github.com/guidesiderio/maleta-digital-da-fiscalizacao) | Acervo digital de documentos da PRAD/UFPI para fiscais e gestores de contratos |
+| [pipeline_weather](https://github.com/guidesiderio/pipeline_weather) | Pipeline de ETL orquestrado em Airflow: ingestão da API do OpenWeatherMap, normalização de JSON aninhado em 22 colunas e carga idempotente em PostgreSQL (Neon) |
 | [docker-data-project](https://github.com/guidesiderio/docker-data-project) | ETL com Python, Pandas, PostgreSQL e Docker |
-| [prototipo-multimidia](https://github.com/guidesiderio/prototipo-multimidia) | Aplicação web de gerenciamento de objetos multimídia, publicada na AWS |
+| [Multi-agent-ACL](https://github.com/guidesiderio/Multi-agent-ACL) | Sistema multiagente em LangChain: um agente orquestrador delega pesquisas na web a subagentes e consolida os resultados em um plano final |
 
 ## Stack
 
-**Dados & BI**
+**Dados & Engenharia**
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </div>
 
-**Infraestrutura**
+**Infraestrutura & Ferramentas**
 
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</div>
-
-**Dev & Ferramentas**
-
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -70,7 +55,7 @@ Construo dashboards e extraio informação de bases operacionais para apoiar dec
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 </div>
 
@@ -82,3 +67,5 @@ Construo dashboards e extraio informação de bases operacionais para apoiar dec
 <img height="165" src="profile/top-langs.svg?v=2" />
 
 </div>
+
+---
